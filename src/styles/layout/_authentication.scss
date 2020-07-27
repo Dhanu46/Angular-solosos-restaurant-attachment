@@ -1,0 +1,23 @@
+#layoutAuthentication {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url(../../src/assets/img/bg-02.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  #layoutAuthentication_content {
+    min-width: 0;
+    flex-grow: 1;
+  }
+  #layoutAuthentication_footer {
+    min-width: 0;
+  }
+  .card-header{
+    background-image: url(../../src/assets/img/logo.png);
+                    background-repeat: no-repeat;
+                    margin: 5%;
+
+}
+}
