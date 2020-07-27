@@ -1,2 +1,2 @@
 # Angular-solosos-restaurant-attachment
-POC Kitchen Front end Designed By dhanush
+POC Kitchen Frontend Designed using Angular framework
